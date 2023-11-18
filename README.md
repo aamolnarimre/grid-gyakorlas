@@ -1,0 +1,2 @@
+# grid-gyakorlas
+# grid-gyakorlas
